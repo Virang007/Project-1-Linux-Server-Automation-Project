@@ -1,4 +1,4 @@
-﻿# 🧱 Project 1: Linux Server Automation Project (AWS - EC2)
+﻿# 🧱 Project 1: Linux Server Automation
 
 ## 🔹 Project Overview
 Automated maintenance system tailor-made for **Amazon Linux** instances on **AWS EC2**. It handles resource monitoring, log rotation, and service health reporting automatically.
@@ -47,4 +47,5 @@ To automate daily at 12:00 AM:
    ```bash
    0 0 * * * /home/ec2-user/LinuxServerAutomation.sh
    ```
+
 
